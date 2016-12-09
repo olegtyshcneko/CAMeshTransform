@@ -42,7 +42,7 @@ namespace CAMeshTransformLib
 		private static readonly Selector AddVertexSelector = new Selector("addVertex:");
 		private static readonly Selector AddFaceSelector = new Selector("addFace:");
 		private static readonly Selector SetSubdivisionStepsSelector = new Selector("setSubdivisionSteps:");
-		private static readonly Selector GetSubdivisionStepsSelector = new Selector("subdivisionSteps:");
+		private static readonly Selector GetSubdivisionStepsSelector = new Selector("subdivisionSteps");
 
 		private static readonly Selector LayerSetMeshTransformSelector = new Selector("setMeshTransform:");
 

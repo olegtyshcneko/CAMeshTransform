@@ -27,6 +27,7 @@ And you are done.
 This repository contains simple example: 
 
 ![alt sample](https://github.com/olegtyshcneko/CAMeshTransform/blob/master/sample_screen.png)
+
 Thanks to Bartosz Ciechanowski for providing tutorial about this: [tutorial](http://ciechanowski.me/blog/2014/05/14/mesh-transforms/)
 Read it to gain more understanding how to use this.
 

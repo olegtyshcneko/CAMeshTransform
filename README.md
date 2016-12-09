@@ -24,11 +24,10 @@ transform.SetSelfToLayer(view.Layer);
 ```
 And you are done.
 
-This repository contains simple: 
-add image here later
+This repository contains simple example: 
+[[https://github.com/olegtyshcneko/CAMeshTransform/blob/master/sample_screen.png]
 
-Thanks to Bartosz Ciechanowski for providing tutorial about this:
-[a link](http://ciechanowski.me/blog/2014/05/14/mesh-transforms/)
+Thanks to Bartosz Ciechanowski for providing tutorial about this: [tutorial](http://ciechanowski.me/blog/2014/05/14/mesh-transforms/)
 Read it to gain more understanding how to use this.
 
 You should use this with caution as Apple doesn't allow to use private API and it will decline publishing into AppStore.
